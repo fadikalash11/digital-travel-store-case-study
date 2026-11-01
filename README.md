@@ -271,4 +271,4 @@ This repository is a **case study**. The production source code, workflow export
 
 If you are building something similar, feel free to open an issue or reach out.
 
-**Built by [YOUR NAME]** · [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · [Live site](https://alzoabi.travel/)
+**Built by [FadiKalash]** · [LinkedIn](https://www.linkedin.com/in/fadikalash) · [Live site](https://alzoabi.travel/)
